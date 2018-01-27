@@ -1,0 +1,46 @@
+body {
+    background-color: #003B46;
+    color: #C4DFE6;
+}
+
+a:link, a:visited, a:hover, a:active {
+    color: #C4DFE6;
+    text-decoration: none;
+}
+
+.search-box {
+    position: relative;
+    width: 50%;
+    left: 25%;
+    top: 100px;
+}
+
+#random {
+    margin-bottom: 10px;
+}
+
+.header {
+    margin-top: 30px;
+    color: #66A5AD;
+}
+
+.results-list {
+    margin-top: 40px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+li h3 {
+    font: bold 20px/1.5 Helvetica, Verdana, sans-serif;
+}
+
+li:hover {
+    background: #005766;
+}
